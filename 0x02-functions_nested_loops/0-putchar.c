@@ -6,6 +6,8 @@
  */
 int main(void)
 {
+	int _putchar(char) = char
+	{
 	_putchar("_");
 	_putchar("p");
 	_putchar("u");
@@ -15,5 +17,6 @@ int main(void)
 	_putchar("a");
 	_putchar("r");
 	_putchar("\n");
+	}
 	return (0);
 }
