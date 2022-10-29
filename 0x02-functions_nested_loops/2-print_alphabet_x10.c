@@ -4,7 +4,7 @@
  */
 void print_alphabet_x10(void)
 {
-	int w;
+	int w = 0;
 	int j;
 
 	while (w++ <= 9)
